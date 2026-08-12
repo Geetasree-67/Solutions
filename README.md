@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Geetasree-67/Solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Geetasree-67/Solutions/tree/master/0645-set-mismatch) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Geetasree-67/Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Geetasree-67/Solutions/tree/master/3701-compute-alternating-sum) |
 ## Math
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Geetasree-67/Solutions/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Geetasree-67/Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
