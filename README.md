@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Geetasree-67/Solutions/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0264-ugly-number-ii) |
+| [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
 ## Enumeration
 |  |
 | ------- |
@@ -64,6 +65,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Geetasree-67/Solutions/tree/master/3701-compute-alternating-sum) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
