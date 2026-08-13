@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Geetasree-67/Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2843-count-symmetric-integers](https://github.com/Geetasree-67/Solutions/tree/master/2843-count-symmetric-integers) |
+| [3099-harshad-number](https://github.com/Geetasree-67/Solutions/tree/master/3099-harshad-number) |
 ## Enumeration
 |  |
 | ------- |
