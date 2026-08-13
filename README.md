@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Geetasree-67/Solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Geetasree-67/Solutions/tree/master/0645-set-mismatch) |
+| [1512-number-of-good-pairs](https://github.com/Geetasree-67/Solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Geetasree-67/Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/Geetasree-67/Solutions/tree/master/2942-find-words-containing-character) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Geetasree-67/Solutions/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
+| [1512-number-of-good-pairs](https://github.com/Geetasree-67/Solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Geetasree-67/Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Geetasree-67/Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2843-count-symmetric-integers](https://github.com/Geetasree-67/Solutions/tree/master/2843-count-symmetric-integers) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0264-ugly-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Geetasree-67/Solutions/tree/master/0645-set-mismatch) |
+| [1512-number-of-good-pairs](https://github.com/Geetasree-67/Solutions/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/Geetasree-67/Solutions/tree/master/3668-restore-finishing-order) |
 ## Dynamic Programming
 |  |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
 | [2942-find-words-containing-character](https://github.com/Geetasree-67/Solutions/tree/master/2942-find-words-containing-character) |
 | [3894-traffic-signal-color](https://github.com/Geetasree-67/Solutions/tree/master/3894-traffic-signal-color) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Geetasree-67/Solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
