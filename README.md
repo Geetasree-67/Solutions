@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Geetasree-67/Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2843-count-symmetric-integers](https://github.com/Geetasree-67/Solutions/tree/master/2843-count-symmetric-integers) |
 | [3099-harshad-number](https://github.com/Geetasree-67/Solutions/tree/master/3099-harshad-number) |
+| [3894-traffic-signal-color](https://github.com/Geetasree-67/Solutions/tree/master/3894-traffic-signal-color) |
 ## Enumeration
 |  |
 | ------- |
@@ -76,9 +77,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Geetasree-67/Solutions/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/Geetasree-67/Solutions/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
 | [2942-find-words-containing-character](https://github.com/Geetasree-67/Solutions/tree/master/2942-find-words-containing-character) |
+| [3894-traffic-signal-color](https://github.com/Geetasree-67/Solutions/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
