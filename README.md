@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Geetasree-67/Solutions/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/Geetasree-67/Solutions/tree/master/1512-number-of-good-pairs) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Geetasree-67/Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3668-restore-finishing-order](https://github.com/Geetasree-67/Solutions/tree/master/3668-restore-finishing-order) |
 ## Dynamic Programming
 |  |
@@ -89,9 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
 | [2942-find-words-containing-character](https://github.com/Geetasree-67/Solutions/tree/master/2942-find-words-containing-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Geetasree-67/Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3894-traffic-signal-color](https://github.com/Geetasree-67/Solutions/tree/master/3894-traffic-signal-color) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Geetasree-67/Solutions/tree/master/1512-number-of-good-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Geetasree-67/Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
