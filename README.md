@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Geetasree-67/Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Geetasree-67/Solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Geetasree-67/Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Geetasree-67/Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Geetasree-67/Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
