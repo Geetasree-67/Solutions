@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Geetasree-67/Solutions/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/Geetasree-67/Solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Geetasree-67/Solutions/tree/master/3701-compute-alternating-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Geetasree-67/Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3925-concatenate-array-with-reverse](https://github.com/Geetasree-67/Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Geetasree-67/Solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Geetasree-67/Solutions/tree/master/0645-set-mismatch) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Geetasree-67/Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
