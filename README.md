@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Geetasree-67/Solutions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Geetasree-67/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Geetasree-67/Solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Geetasree-67/Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Geetasree-67/Solutions/tree/master/0217-contains-duplicate) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Geetasree-67/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
