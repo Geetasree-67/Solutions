@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Geetasree-67/Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Geetasree-67/Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Geetasree-67/Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Geetasree-67/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Geetasree-67/Solutions/tree/master/0136-single-number) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Geetasree-67/Solutions/tree/master/2029-stone-game-ix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Geetasree-67/Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
