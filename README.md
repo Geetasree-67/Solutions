@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Geetasree-67/Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Geetasree-67/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Geetasree-67/Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Geetasree-67/Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Geetasree-67/Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Geetasree-67/Solutions/tree/master/0283-move-zeroes) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Geetasree-67/Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Geetasree-67/Solutions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Geetasree-67/Solutions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Geetasree-67/Solutions/tree/master/0645-set-mismatch) |
