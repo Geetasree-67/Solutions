@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Geetasree-67/Solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Geetasree-67/Solutions/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Geetasree-67/Solutions/tree/master/0682-baseball-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Geetasree-67/Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Geetasree-67/Solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Geetasree-67/Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Geetasree-67/Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Geetasree-67/Solutions/tree/master/0682-baseball-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Geetasree-67/Solutions/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/Geetasree-67/Solutions/tree/master/3894-traffic-signal-color) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Geetasree-67/Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Geetasree-67/Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Geetasree-67/Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Geetasree-67/Solutions/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
