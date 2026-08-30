@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Geetasree-67/Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Geetasree-67/Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Geetasree-67/Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Geetasree-67/Solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Geetasree-67/Solutions/tree/master/0645-set-mismatch) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Geetasree-67/Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Geetasree-67/Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Geetasree-67/Solutions/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/Geetasree-67/Solutions/tree/master/1512-number-of-good-pairs) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Geetasree-67/Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Geetasree-67/Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Geetasree-67/Solutions/tree/master/1046-last-stone-weight) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Geetasree-67/Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Geetasree-67/Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Geetasree-67/Solutions/tree/master/0645-set-mismatch) |
 | [0973-k-closest-points-to-origin](https://github.com/Geetasree-67/Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Geetasree-67/Solutions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/Geetasree-67/Solutions/tree/master/2029-stone-game-ix) |
 ## Sliding Window
@@ -230,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Geetasree-67/Solutions/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Geetasree-67/Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
@@ -254,9 +260,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Geetasree-67/Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Geetasree-67/Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
