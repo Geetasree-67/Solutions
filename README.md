@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Geetasree-67/Solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Geetasree-67/Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2029-stone-game-ix](https://github.com/Geetasree-67/Solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Geetasree-67/Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/Geetasree-67/Solutions/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/Geetasree-67/Solutions/tree/master/3668-restore-finishing-order) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/Geetasree-67/Solutions/tree/master/0605-can-place-flowers) |
 | [2029-stone-game-ix](https://github.com/Geetasree-67/Solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Geetasree-67/Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
 |  |
 | ------- |
