@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Geetasree-67/Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Geetasree-67/Solutions/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Geetasree-67/Solutions/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0264-ugly-number-ii) |
 | [0412-fizz-buzz](https://github.com/Geetasree-67/Solutions/tree/master/0412-fizz-buzz) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Geetasree-67/Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Geetasree-67/Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Geetasree-67/Solutions/tree/master/0190-reverse-bits) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Geetasree-67/Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Geetasree-67/Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Geetasree-67/Solutions/tree/master/0682-baseball-game) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Geetasree-67/Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Geetasree-67/Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Geetasree-67/Solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Geetasree-67/Solutions/tree/master/0412-fizz-buzz) |
