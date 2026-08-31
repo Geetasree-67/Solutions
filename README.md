@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Geetasree-67/Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/Geetasree-67/Solutions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/Geetasree-67/Solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Geetasree-67/Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Geetasree-67/Solutions/tree/master/0682-baseball-game) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Geetasree-67/Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Geetasree-67/Solutions/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Geetasree-67/Solutions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Geetasree-67/Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Geetasree-67/Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Geetasree-67/Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Geetasree-67/Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Geetasree-67/Solutions/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Geetasree-67/Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Geetasree-67/Solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Geetasree-67/Solutions/tree/master/0973-k-closest-points-to-origin) |
