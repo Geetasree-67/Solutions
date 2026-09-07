@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Geetasree-67/Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Geetasree-67/Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Geetasree-67/Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/Geetasree-67/Solutions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/Geetasree-67/Solutions/tree/master/0605-can-place-flowers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Geetasree-67/Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Geetasree-67/Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Geetasree-67/Solutions/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Geetasree-67/Solutions/tree/master/0692-top-k-frequent-words) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Geetasree-67/Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Geetasree-67/Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Geetasree-67/Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Geetasree-67/Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Geetasree-67/Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Geetasree-67/Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Geetasree-67/Solutions/tree/master/0506-relative-ranks) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Geetasree-67/Solutions/tree/master/0035-search-insert-position) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Geetasree-67/Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Geetasree-67/Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Stack
 |  |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Geetasree-67/Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Geetasree-67/Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Geetasree-67/Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
