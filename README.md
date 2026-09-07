@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Geetasree-67/Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Geetasree-67/Solutions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Geetasree-67/Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Geetasree-67/Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Geetasree-67/Solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Geetasree-67/Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Geetasree-67/Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Geetasree-67/Solutions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Geetasree-67/Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Geetasree-67/Solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Geetasree-67/Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Geetasree-67/Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Geetasree-67/Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
 | ------- |
