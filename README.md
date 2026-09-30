@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Geetasree-67/Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Geetasree-67/Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Geetasree-67/Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Geetasree-67/Solutions/tree/master/0242-valid-anagram) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Geetasree-67/Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Geetasree-67/Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Geetasree-67/Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Geetasree-67/Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Geetasree-67/Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Geetasree-67/Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Geetasree-67/Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Geetasree-67/Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
