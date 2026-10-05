@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Geetasree-67/Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Geetasree-67/Solutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Geetasree-67/Solutions/tree/master/0645-set-mismatch) |
+| [0784-letter-case-permutation](https://github.com/Geetasree-67/Solutions/tree/master/0784-letter-case-permutation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Geetasree-67/Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Geetasree-67/Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Geetasree-67/Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Geetasree-67/Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Geetasree-67/Solutions/tree/master/0692-top-k-frequent-words) |
+| [0784-letter-case-permutation](https://github.com/Geetasree-67/Solutions/tree/master/0784-letter-case-permutation) |
 | [2942-find-words-containing-character](https://github.com/Geetasree-67/Solutions/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Geetasree-67/Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3894-traffic-signal-color](https://github.com/Geetasree-67/Solutions/tree/master/3894-traffic-signal-color) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Geetasree-67/Solutions/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/Geetasree-67/Solutions/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
