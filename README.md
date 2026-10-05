@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Geetasree-67/Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Geetasree-67/Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Geetasree-67/Solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Geetasree-67/Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Geetasree-67/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Geetasree-67/Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0137-single-number-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Geetasree-67/Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Geetasree-67/Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Geetasree-67/Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Geetasree-67/Solutions/tree/master/0190-reverse-bits) |
@@ -347,5 +349,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Geetasree-67/Solutions/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/Geetasree-67/Solutions/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
