@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Geetasree-67/Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Geetasree-67/Solutions/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/Geetasree-67/Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Geetasree-67/Solutions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Geetasree-67/Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Geetasree-67/Solutions/tree/master/0078-subsets) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Geetasree-67/Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Geetasree-67/Solutions/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/Geetasree-67/Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Geetasree-67/Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Geetasree-67/Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Geetasree-67/Solutions/tree/master/0078-subsets) |
