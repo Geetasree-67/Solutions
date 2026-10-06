@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Geetasree-67/Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Geetasree-67/Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Geetasree-67/Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0264-ugly-number-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Geetasree-67/Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Geetasree-67/Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Geetasree-67/Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Geetasree-67/Solutions/tree/master/0067-add-binary) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Geetasree-67/Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Geetasree-67/Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Geetasree-67/Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Geetasree-67/Solutions/tree/master/0077-combinations) |
