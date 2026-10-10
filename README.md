@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Geetasree-67/Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Geetasree-67/Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Geetasree-67/Solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Geetasree-67/Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Geetasree-67/Solutions/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0264-ugly-number-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Geetasree-67/Solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Geetasree-67/Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Geetasree-67/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Geetasree-67/Solutions/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/Geetasree-67/Solutions/tree/master/0264-ugly-number-ii) |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Geetasree-67/Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Geetasree-67/Solutions/tree/master/0131-palindrome-partitioning) |
 | [0784-letter-case-permutation](https://github.com/Geetasree-67/Solutions/tree/master/0784-letter-case-permutation) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Geetasree-67/Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
