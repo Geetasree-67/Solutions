@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Geetasree-67/Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Geetasree-67/Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Geetasree-67/Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Geetasree-67/Solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Geetasree-67/Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Geetasree-67/Solutions/tree/master/0231-power-of-two) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Geetasree-67/Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Geetasree-67/Solutions/tree/master/0069-sqrtx) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Geetasree-67/Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Geetasree-67/Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Stack
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Geetasree-67/Solutions/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Geetasree-67/Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
