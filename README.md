@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Geetasree-67/Solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Geetasree-67/Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Geetasree-67/Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Geetasree-67/Solutions/tree/master/0039-combination-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Geetasree-67/Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Geetasree-67/Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Geetasree-67/Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Geetasree-67/Solutions/tree/master/0022-generate-parentheses) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Geetasree-67/Solutions/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/Geetasree-67/Solutions/tree/master/0692-top-k-frequent-words) |
 ## Recursion
 |  |
